@@ -1,18 +1,26 @@
 {
   "name": "petvida-app",
   "version": "1.0.0",
+  "homepage": "https://github.com/arturbonne/petclinica",
   "description": "Aplicativo de agendamento e saúde animal para a Clínica PetVida",
   "main": "App.js",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
-    "ios": "expo start --ios"
+    "ios": "expo start --ios",
+    "predeploy": "npx expo export --platform web",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "expo": "~49.0.15",
     "react": "18.2.0",
-    "react-native": "0.72.6"
+    "react-native": "0.72.6",
+    "react-dom": "*",
+    "react-native-web": "*"
   },
-  "author": "Seu Nome",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  },
+  "author": "Artur Bonnevialle",
   "license": "MIT"
 }

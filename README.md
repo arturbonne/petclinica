@@ -1,7 +1,7 @@
 # 🐾 PetVida App - Clínica Veterinária e Estética
 
 ## 📖 Briefing do Problema
-A PetVida é uma clínica de bairro fundada pelo Dr. Gabriel Santos e pela Dra. Camila Paes[cite: 1]. Com o aumento para mais de 30 banhos diários, o gerenciamento de consultas feito puramente em agendas de papel gerou um caos administrativo, resultando em choques de horários[cite: 1]. Além disso, a clínica perdia receita devido ao esquecimento das datas de banho ou vacina por parte dos tutores, gerando lacunas na agenda e perda de minutos valiosos da recepção buscando históricos em arquivos físicos de arquivo morto
+A PetVida é uma clínica de bairro fundada pelo Dr. Gabriel Santos e pela Dra. Camila Paes. Com o aumento para mais de 30 banhos diários, o gerenciamento de consultas feito puramente em agendas de papel gerou um caos administrativo, resultando em choques de horários. Além disso, a clínica perdia receita devido ao esquecimento das datas de banho ou vacina por parte dos tutores, gerando lacunas na agenda e perda de minutos valiosos da recepção buscando históricos em arquivos físicos de arquivo morto 
 
 ## 💡 Justificativa da Solução
 Para resolver essa dor crônica, optei pelo desenvolvimento de um **Aplicativo Móvel** focado no tutor do pet. A grande oportunidade do negócio é justamente integrar o cuidado estético ao histórico de saúde do animal. O aplicativo móvel é a solução ideal porque: Todo o historico medico do animal estará na palma da mão do seu dono, adiantando muito o trabalho dos atendentes e distribuindo as responsabilidades

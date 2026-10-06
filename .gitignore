@@ -1,0 +1,34 @@
+# Variáveis de Ambiente e Credenciais (Ponto Crítico)
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+*.secret.*
+
+# Pastas de Dependências (Node.js / React Native)
+node_modules/
+.pnp
+.pnp.js
+
+# Arquivos de Build e Compilação (Android/iOS)
+android/app/build/
+ios/build/
+.expo/
+dist/
+build/
+*.apk
+*.ipa
+
+# Arquivos Gerados pelo Sistema Operacional
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+desktop.ini
+
+# Logs e Arquivos de Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log

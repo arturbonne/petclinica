@@ -9,7 +9,6 @@ Para resolver essa dor crônica, optei pelo desenvolvimento de um **Aplicativo M
 3. **Carteirinha Digital:** O histórico médico fica na palma da mão, eliminando a busca manual em pastas físicas
 
 ## 📱 Protótipos e Telas
-*(Substitua os textos abaixo pelas imagens das capturas de tela do seu aplicativo)*
 <img width="447" height="786" alt="image" src="https://github.com/user-attachments/assets/f41f7a6d-a09e-4dbb-8ddc-6ee94e8447ef" />
 <img width="385" height="777" alt="image" src="https://github.com/user-attachments/assets/216aef49-31ce-4b15-b07e-39ff05305f1c" />
 <img width="413" height="786" alt="image" src="https://github.com/user-attachments/assets/b4da1b15-f3ae-4f0a-8fae-2b155c39d90a" />
